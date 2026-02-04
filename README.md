@@ -3,7 +3,7 @@ Centralized logging architecture built on top of a bastion-based administrative 
 
 This repository extends the platform established in:
 
-👉 **RHEL-9-Bastion-Foundation-Lab**
+**RHEL-9-Bastion-Foundation-Lab**
 
 Rather than redesigning the network, this project enhances the environment by introducing a dedicated logging server (`log01`) and validating system behavior under storage pressure.
 
