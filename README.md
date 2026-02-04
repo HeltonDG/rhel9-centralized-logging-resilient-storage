@@ -1,10 +1,6 @@
 # rhel9-centralized-logging-resilient-storage
 Centralized logging architecture built on top of a bastion-based administrative foundation. This project focuses on secure log transport, storage failure-domain isolation, and live LVM migration following a controlled disk exhaustion incident.
 
-# RHEL 9 Centralized Logging with Resilient Storage
-
-Centralized logging architecture built on top of a bastion-based administrative foundation. This project focuses on secure log transport, storage failure-domain isolation, and live LVM migration following a controlled disk exhaustion incident.
-
 This repository extends the platform established in:
 
 👉 **RHEL-9-Bastion-Foundation-Lab**
